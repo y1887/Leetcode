@@ -1,4 +1,3 @@
 # Leetcode
 
-Some <a href=www.leetcode.com> Leetcode</a> problem solution classified by difficulty.
-
+Some <a href=www.leetcode.com> Leetcode</a> problems solution classified by difficulty.
