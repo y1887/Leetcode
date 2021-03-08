@@ -1,7 +1,8 @@
-/*  https://leetcode.com/problems/design-circular-deque/
-    Using Circular Array to solve the problem.
-    Note: "next of front" & "previous of rear" must be NULL. XD 
-*/
+/**  
+https://leetcode.com/problems/design-circular-deque/
+Using Circular Array to solve the problem.
+Note: "next of front" & "previous of rear" must be NULL. XD  
+**/
 
 class MyCircularDeque {
 public:
