@@ -18,7 +18,6 @@ public:
         return NULL;
     }
 };
-
 /**
 Runtime: 32 ms, faster than 97.40% of C++ online submissions for Search in a Binary Search Tree.
 Memory Usage: 34.8 MB, less than 78.33% of C++ online submissions for Search in a Binary Search Tree.
@@ -37,7 +36,6 @@ public:
             return (root->left==NULL)? NULL : searchBST(root->left, val);
     }
 };
-
 /**
 Runtime: 36 ms, faster than 92.19% of C++ online submissions for Search in a Binary Search Tree.
 Memory Usage: 34.8 MB, less than 54.81% of C++ online submissions for Search in a Binary Search Tree.
