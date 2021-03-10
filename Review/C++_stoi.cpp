@@ -1,4 +1,6 @@
+// Since C++11 Support
 // stoi example
+
 #include <iostream>   // cout
 #include <string>     // string, stoi
 using namespace std;
