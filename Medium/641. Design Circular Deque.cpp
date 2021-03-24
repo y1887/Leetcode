@@ -1,7 +1,7 @@
 /**  
-https://leetcode.com/problems/design-circular-deque/
-Using Circular Array to solve the problem.
-Note: "next of front" & "previous of rear" must be NULL. XD  
+* https://leetcode.com/problems/design-circular-deque/
+* Using Circular Array to solve the problem.
+* Note: "next of front" & "previous of rear" must be NULL. XD  
 */
 
 class MyCircularDeque {
@@ -112,6 +112,6 @@ public:
 };
 
 /**
-Runtime: 24 ms, faster than 88.69% of C++ online submissions for Design Circular Deque.
-Memory Usage: 16.7 MB, less than 95.54% of C++ online submissions for Design Circular Deque.
- */
+* Runtime: 24 ms, faster than 88.69% of C++ online submissions for Design Circular Deque.
+* Memory Usage: 16.7 MB, less than 95.54% of C++ online submissions for Design Circular Deque.
+*/
